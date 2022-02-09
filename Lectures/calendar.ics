@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+BEGIN:VEVENT
+SUMMARY:Introduction to Google Solution Challenge + Pizza with Hoppers
+DTSTART;VALUE=DATE-TIME:20220211T010000Z
+DTEND;VALUE=DATE-TIME:20220212T030000Z
+DTSTAMP;VALUE=DATE-TIME:20220209T101249Z
+UID:2022-02-09T10:12:49.214564/Bevy
+DESCRIPTION:Join us for introductory workshops and evening social with piz
+ za with Hoppers!
+LOCATION:Appleton Tower\, 11 Crichton St\, Newington\, Edinbirgh\, EH8 9LE
+ORGANIZER;CN="GDSC Event Platform":MAILTO:noreply@gdsc.community.dev
+PRIORITY:5
+END:VEVENT
+END:VCALENDAR
